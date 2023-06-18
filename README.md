@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jed Ivan</h1>
-<h3 align="center">A bs information technology student and passionate automation developer</h3>
+<h3 align="center">A student and passionate automation developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jed-lab&label=Profile%20views&color=0e75b6&style=flat" alt="jed-lab" /> </p>
 
